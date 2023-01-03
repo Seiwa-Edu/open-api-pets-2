@@ -13,8 +13,8 @@ properties:
     type: string
   type:
     type: string
-  '':
-    type: string
+  cost:
+    type: integer
 required:
   - id
   - name
