@@ -79,6 +79,3 @@ paths:
             application/json:
               schema:
                 $ref: ./schemas/Error.yaml
-components:
-  schemas:
-    $ref: ./schemas/index.yaml
